@@ -6,28 +6,8 @@
         <description>Attn app updates</description>
         <language>en</language>
 
-        <item>
-            <title>Version 1.2.7</title>
-            <description>
-                <![CDATA[
-                    <h2>What's New in Attn 1.2.7</h2>
-                    <ul>
-                        <li>Apple Calendar Added</li>
-                        <li>UI improvements</li>
-                        <li>Bug Fixes</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>Thu, 23 Jan 2026 13:48:00 -0800</pubDate>
-            <sparkle:version>20475</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
-                length="7363624"
-                type="application/octet-stream"
-                sparkle:edSignature="789O2DjuO7DwIsn9U4D+tzFU3Wnm9Xr3Qb17acaDEqCvgpfbz8mhgNIoO5+pRBtuEJwblAPUgx+soROtHbqhBQ=="
-            />
-        </item>
+        <!-- 1.2.7 update temporarily hidden - users on 1.2.6 have broken Sparkle installer -->
+        <!-- Manual download available at: https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.dmg -->
+
     </channel>
 </rss>
