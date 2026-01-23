@@ -24,7 +24,7 @@
             <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/attnos/attn-updates/releases/download/v1.2.7/Attn-1.2.7.zip"
+                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
                 length="7364318"
                 type="application/octet-stream"
                 sparkle:edSignature="gJaVISu060/JOfP3KIrTfdo4ksB5MCFFIq+Z46pVXs1AygITxUd0TTBB3aiJkT+P3SD7B3Wfzh+a0CQ7/THJAg=="
@@ -47,7 +47,7 @@
             <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/attnos/attn-updates/releases/download/v1.2.6/Attn-1.2.6.zip"
+                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.6.zip"
                 length="7342929"
                 type="application/octet-stream"
                 sparkle:edSignature="0ZvfYA+nJpoFmd1waFNB5tTViTTrphj+inSJG1zfvMSmowJOX0S3OQi63wceHfSGVrBZQ9Pyzf7wkUok+UNUCw=="
