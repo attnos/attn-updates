@@ -7,31 +7,6 @@
         <language>en</language>
 
         <item>
-            <title>Version 1.2.7</title>
-            <description>
-                <![CDATA[
-                    <h2>What's New in Attn 1.2.7</h2>
-                    <ul>
-                        <li>Apple Calendar events now show 48 hours ahead in daily brief and Upcoming</li>
-                        <li>New Upcoming screen showing all calendar events in the next 48 hours</li>
-                        <li>Upcoming moved to primary navigation under Notes</li>
-                        <li>Bug fixes and improvements</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>Wed, 22 Jan 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>20475</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
-                length="7361467"
-                type="application/octet-stream"
-                sparkle:edSignature="sGn74zWT6Zy2K//r8eDkMlezHyrz8zX75d+sKCSUNVXwrVXGTmBx01JczocJmtQ2zc8h7w9aSIQv5D3zr1/IBg=="
-            />
-        </item>
-
-        <item>
             <title>Version 1.2.6</title>
             <description>
                 <![CDATA[
