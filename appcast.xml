@@ -7,28 +7,6 @@
         <language>en</language>
 
         <item>
-            <title>Version 1.2.8-test</title>
-            <description>
-                <![CDATA[
-                    <h2>Test Update</h2>
-                    <ul>
-                        <li>Testing Sparkle installer</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>Thu, 23 Jan 2026 14:30:00 -0800</pubDate>
-            <sparkle:version>20476</sparkle:version>
-            <sparkle:shortVersionString>1.2.8-test</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
-                length="7363624"
-                type="application/octet-stream"
-                sparkle:edSignature="789O2DjuO7DwIsn9U4D+tzFU3Wnm9Xr3Qb17acaDEqCvgpfbz8mhgNIoO5+pRBtuEJwblAPUgx+soROtHbqhBQ=="
-            />
-        </item>
-
-        <item>
             <title>Version 1.2.7</title>
             <description>
                 <![CDATA[
