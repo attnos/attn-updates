@@ -24,9 +24,9 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
-                length="7361494"
+                length="7363624"
                 type="application/octet-stream"
-                sparkle:edSignature="5dFrVr025rYOje02bsWrVYzZxBJCFbWOVRoTtKk2SYw9EzkLtpuUmYjuKIkpNNbgnWqFww1wWyLa7jBzcbdaBQ=="
+                sparkle:edSignature="789O2DjuO7DwIsn9U4D+tzFU3Wnm9Xr3Qb17acaDEqCvgpfbz8mhgNIoO5+pRBtuEJwblAPUgx+soROtHbqhBQ=="
             />
         </item>
     </channel>
