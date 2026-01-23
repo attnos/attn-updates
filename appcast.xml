@@ -20,14 +20,14 @@
                 ]]>
             </description>
             <pubDate>Wed, 22 Jan 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>1.2.7</sparkle:version>
+            <sparkle:version>20475</sparkle:version>
             <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
-                length="7361469"
+                length="7361467"
                 type="application/octet-stream"
-                sparkle:edSignature="P1KLQfxi6tJiHkiysDjYV5UhlDMTruURkBcg8EDpUfUPDjzA3UCmBKQzDBUlKkLwMRVeM2HSt3VuiQMgYTU7Dg=="
+                sparkle:edSignature="sGn74zWT6Zy2K//r8eDkMlezHyrz8zX75d+sKCSUNVXwrVXGTmBx01JczocJmtQ2zc8h7w9aSIQv5D3zr1/IBg=="
             />
         </item>
 
