@@ -6,8 +6,54 @@
         <description>Attn app updates</description>
         <language>en</language>
 
-        <!-- 1.2.7 update temporarily hidden - users on 1.2.6 have broken Sparkle installer -->
-        <!-- Manual download available at: https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.dmg -->
+        <item>
+            <title>Version 1.2.9</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in Attn 1.2.9</h2>
+                    <ul>
+                        <li>New TickTick integration - sync your TickTick tasks</li>
+                        <li>Cloud sync for all account types - accounts now persist across sign out/sign in</li>
+                        <li>Security improvements - better data isolation between users</li>
+                        <li>Bug fixes and performance improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 28 Jan 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>20480</sparkle:version>
+            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.9.zip"
+                length="7646102"
+                type="application/octet-stream"
+                sparkle:edSignature="u7+V1h47CfFJa7CbOeECu4fcTDxMbhdu9NM5vzD8TrUeqnTxpOKPRlLX9jnMGeluST4OFMdjOgGiO5l2YsiPCw=="
+            />
+        </item>
+
+        <item>
+            <title>Version 1.2.7</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in Attn 1.2.7</h2>
+                    <ul>
+                        <li>Apple Calendar events now show 48 hours ahead in daily brief and Upcoming</li>
+                        <li>New Upcoming screen showing all calendar events in the next 48 hours</li>
+                        <li>Bug fixes and improvements</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 22 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://raw.githubusercontent.com/attnos/attn-updates/main/Attn-1.2.7.zip"
+                length="7363624"
+                type="application/octet-stream"
+                sparkle:edSignature="gJaVISu060/JOfP3KIrTfdo4ksB5MCFFIq+Z46pVXs1AygITxUd0TTBB3aiJkT+P3SD7B3Wfzh+a0CQ7/THJAg=="
+            />
+        </item>
 
     </channel>
 </rss>
